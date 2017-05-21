@@ -1,4 +1,4 @@
-package my.intellij.androidvideo;
+package my.intellij.androidrtpaudioclient;
 
 import android.media.AudioFormat;
 import android.media.AudioManager;
